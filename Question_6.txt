@@ -1,4 +1,8 @@
 Q6. Deploy Tailwind projects named Youtube, slack, and Gmail clones on GitHub pages and share the
 deployed link of those three. Expected output - Live hosted URL Link of your deployed respective website with
 GitHub pages.
+1. QUIZ App-https://tausif754.github.io/Quiz-App/
+2. Resume-https://tausif754.github.io/Resume_Project/
+3. Web Page Clone-https://tausif754.github.io/Web-Page-Clone/
+4. Color Changer-https://tausif754.github.io/Color-Changer/
 
